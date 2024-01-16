@@ -95,6 +95,8 @@ defaults:
       # can be overridden in the front matter for a specific post
       hidden: false
 
+markdown: kramdown
+
 plugins:
   - jekyll-seo-tag
   - jekyll-gist
