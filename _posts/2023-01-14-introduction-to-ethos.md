@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Ethos"
 layout: post
-date: 2023-01-14 00:00
+date_string: MONDAY. JANUARY 15, 2023
 image: /assets/images/ethos-article-cover-image.jpg
 headerImage: false
 category: blog
